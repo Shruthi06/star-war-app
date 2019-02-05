@@ -7,7 +7,7 @@ const config = {
     devServer: {
         contentBase: ['./public/', './src/'],
         inline: true, 
-        port: 8083,
+        port: 3000,
         disableHostCheck:true 
     },
     module: {
